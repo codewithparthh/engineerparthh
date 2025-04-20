@@ -1,3 +1,4 @@
+// code for clac
 #include <iostream>
 
 using namespace std;
